@@ -1,1 +1,0 @@
-E:\TestProjects\GitDemo\GitDemo\bin\Debug\GitDemo.exe.config
